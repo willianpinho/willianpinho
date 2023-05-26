@@ -1,3 +1,5 @@
+<img align="right" height="200" src="coding.gif"/>
+
 ### Hi, I'm Willian 👋. 
 
 I'm a Mobile Software Engineer 💻.\
@@ -12,7 +14,7 @@ Nowadays I'm Technology Consultant 🚀.\
 			askMeAbout: ["mobile dev", "leadership", "app dev", "software architect"],
 			code: ["swift", "Obj-C", "Kotlin", "Java", "Dart"],
 			tools: ["XCode", "Android Studio" "Git", "VSCode"]
-			}
+		     }
 
 
 📱 Contact\
