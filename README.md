@@ -8,11 +8,11 @@ Nowadays I'm Technology Consultant 🚀.
 👨‍💻A little more about me...
 
     const will = {
-			        pronouns: "He" | "Him",
-			        askMeAbout: ["mobile dev", "leadership", "app dev", "software architect"],
-			        code: ["swift", "Obj-C", "Kotlin", "Java", "Dart"],
-			        tools: ["XCode", "Android Studio" "Git", "VSCode"]
-				 }
+		  	pronouns: "He" | "Him",
+			askMeAbout: ["mobile dev", "leadership", "app dev", "software architect"],
+			code: ["swift", "Obj-C", "Kotlin", "Java", "Dart"],
+			tools: ["XCode", "Android Studio" "Git", "VSCode"]
+		}
 
 
 📱 Contact
