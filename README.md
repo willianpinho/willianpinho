@@ -1,4 +1,4 @@
-<img align="right" height="200" src="coding.gif"/>
+<img align="right" height="200" width="auto" src="coding.gif"/>
 
 ### Hi, I'm Willian 👋
 
@@ -15,6 +15,6 @@ Currently a Technology Consultant 🚀
 const will = {
     pronouns: "He" | "Him",
     askMeAbout: ["software development", "leadership", "digital solutions", "software architect"],
-    code: ["swift", "Obj-C", "Kotlin", "Java", "Dart", "Python", "Typescript"],
+    code: ["swift", "Obj-C", "Kotlin", "Java", "Dart", "Python", "Typescript", "Rust"],
     tools: ["XCode", "Android Studio", "Git", "VSCode", "Docker", "Postman", "Intellij"]
 }
