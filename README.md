@@ -1,4 +1,4 @@
-<img align="center" height="200" width="auto" src="coding.gif"/>
+<img align="center" height="auto" width="auto" src="coding.gif"/>
 
 ### Hi, I'm Willian 👋
 
