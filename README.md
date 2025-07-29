@@ -19,5 +19,3 @@ const will = {
     tools: ["XCode", "Android Studio", "Git", "VSCode", "Docker", "Postman", "Intellij"]
 }
 ```
-
-[![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianpinho)](https://github.com/anuraghazra/github-readme-stats)
