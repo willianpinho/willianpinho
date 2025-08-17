@@ -18,7 +18,7 @@ const will = {
     code:
         [
          backend: ["Python", "Rust", "Java", "Javascript"],
-         frontend: ["React", TailwindCSS", "Vue.js"],
+         frontend: ["React", "TailwindCSS", "Vue.js"],
          mobile: ["iOS", "Android", "Flutter"],
         ],
      tools: ["LangChain", "CrewAI", "Agno", "Docker", "Kubernets", "AWS"],
