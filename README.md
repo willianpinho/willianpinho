@@ -21,7 +21,7 @@ const will = {
          frontend: ["React", TailwindCSS", "Vue.js"],
          mobile: ["iOS", "Android", "Flutter"],
         ],
-    tools: ["LangChain", "CrewAI", "Agno", "Docker", "Kubernets", "AWS"],
+     tools: ["LangChain", "CrewAI", "Agno", "Docker", "Kubernets", "AWS"],
      interests: "AI Engineering", "Cryto", "Blockchain Engineering", "SDK Engineering"]
 }
 ```
