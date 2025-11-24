@@ -2,7 +2,7 @@
 
 ### Hi, I'm Willian 👋
 
-I'm a Architect & Software Engineer 💻\
+Software Architect & Engineer 💻\
 Living in Brazil 🇧🇷\
 Computer Science at University of Brasilia 🎓\
 IT Management at FIAP
