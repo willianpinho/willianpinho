@@ -1,41 +1,44 @@
 # Hi, I'm Willian Pinho
 
-**Software Architect & AI Engineer** with 15 years of experience building scalable systems, leading engineering teams, and driving AI adoption across organizations.
+**Software Architect & AI Engineer** building production AI systems, scalable platforms, and developer tooling.
 
-## About
+15+ years shipping enterprise software. From payment platforms (10M+ users, 100K+ TPS) to AI-powered document processing pipelines. Led teams of 20+ engineers across fintech, e-commerce, and SaaS.
 
-- Building production AI/ML systems, multi-agent platforms, and developer tooling
-- Led teams of 20+ engineers across fintech, e-commerce, and enterprise SaaS
-- Architected payment platforms serving 10M+ users and 100K+ transactions/minute
-- Daily practitioner of AI-assisted development — from LLM integration to prompt engineering
+## What I Build
 
-## Tech Stack
+### AI Engineering
+- **Multi-agent orchestration** platforms with LLM routing, observability, and cost optimization
+- **RAG pipelines** with pgvector, hybrid search, confidence routing, and human-in-the-loop
+- **Intelligent Document Processing** — 10-stage AI pipelines with OCR, extraction, and validation
+- **Developer tooling** — MCP servers, AI-assisted workflows, prompt engineering systems
 
-**Languages:** Python, TypeScript, Go, Rust, Java, Swift, Kotlin
-
-**AI/ML:** LLM Integration, RAG Systems, LangChain, CrewAI, OpenAI, Anthropic, Vector Databases, Prompt Engineering
-
-**Backend:** FastAPI, NestJS, Node.js, Django, Spring Boot
-
-**Frontend:** React, Next.js, Vue.js, SwiftUI, Jetpack Compose
-
-**Infrastructure:** AWS, GCP, Azure, Docker, Kubernetes, Terraform
-
-**Data:** PostgreSQL, MongoDB, Redis, DynamoDB
+### Software Architecture
+- **Event-driven microservices** with NestJS, FastAPI, PostgreSQL, Redis, and message queues
+- **Modular SaaS platform** — 76 reusable packages (Python + TypeScript) powering multiple products
+- **Cross-platform mobile** with SwiftUI (iOS) and Jetpack Compose (Android), Clean Architecture
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [large-file-mcp](https://github.com/willianpinho/large-file-mcp) | MCP Server for efficient large file operations in AI development workflows |
-| [document-management-system](https://github.com/willianpinho/document-management-system) | Cloud-based DMS with AI-powered processing — NestJS + Next.js + PostgreSQL + AWS |
-| [agent-advisor-platform](https://github.com/willianpinho/agent-advisor-platform) | Multi-agent static code analysis platform using CrewAI |
-| [medium-curator](https://github.com/willianpinho/medium-curator) | Automated content curation with AI scoring and email delivery |
-| [dynamic-forms](https://github.com/willianpinho/dynamic-forms) | Multi-platform dynamic forms — native iOS (SwiftUI) and Android (Compose) with Clean Architecture |
-| [smart-summary-app](https://github.com/willianpinho/smart-summary-app) | AI-powered text summarization application |
+| Project | What it demonstrates | Stack |
+|---------|---------------------|-------|
+| **[large-file-mcp](https://github.com/willianpinho/large-file-mcp)** | Open-source MCP server for AI dev workflows | TypeScript, MCP Protocol |
+| **[document-management-system](https://github.com/willianpinho/document-management-system)** | Cloud DMS with AI-powered processing | NestJS, Next.js 16, PostgreSQL, AWS |
+| **[idp-poc](https://github.com/willianpinho/idp-poc)** | 10-stage AI document pipeline with RAG chat | FastAPI, pgvector, Claude, Streamlit |
+| **[agent-platform](https://github.com/willianpinho/agent-platform)** | Autonomous agent orchestration platform | LiteLLM, Langfuse, Mastra, Telegram |
+| **[meeting-minutes-saas](https://github.com/willianpinho/meeting-minutes-saas)** | Production SaaS — AI meeting transcription | Next.js, Supabase, Stripe, Gemini |
+| **[modules-saas-platform](https://github.com/willianpinho/modules-saas-platform)** | Shared module ecosystem for serial SaaS building | 76 packages, Python + TypeScript |
+
+## Tech Stack
+
+**AI/ML:** RAG, LLM Orchestration, Multi-Agent Systems, Vector Databases, Prompt Engineering, MCP Protocol
+
+**Backend:** FastAPI, NestJS, Node.js, Spring Boot &nbsp;|&nbsp; **Frontend:** Next.js, React, SwiftUI, Jetpack Compose
+
+**Data:** PostgreSQL, pgvector, Redis, Supabase, ClickHouse &nbsp;|&nbsp; **Infra:** AWS, Docker, Terraform, Traefik
+
+**Languages:** TypeScript, Python, Swift, Kotlin, Go, Java
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-willianpinho-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/willianpinho)
 [![Website](https://img.shields.io/badge/Website-willianpinho.com-000?style=flat&logo=safari)](https://willianpinho.com)
-[![GitHub](https://img.shields.io/badge/GitHub-willianpinho-181717?style=flat&logo=github)](https://github.com/willianpinho)
