@@ -32,3 +32,7 @@ Available for: Staff / Principal / Forward Deployed roles · Fractional AI Archi
 - 📅 [Book 15-min call](https://cal.com/willianpinho) (consulting / role discovery)
 - 💼 Full-time roles, Fractional AI/CTO, Architecture reviews, Tech due diligence
 - 🌎 Brazil-based · UTC-3 · Full US East Coast + EU morning overlap
+
+---
+
+<sub>This profile is a hand-rolled positioning piece, not an autogen template. If you stuck around this far, send me what you're building — I'm curious.</sub>
