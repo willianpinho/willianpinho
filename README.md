@@ -4,8 +4,7 @@
 
 15 years of engineering. 320+ production AI agents. MCP maintainer (Claude Code, Cursor, Gemini CLI). Payment platforms at 10M+ users, 99.9% uptime.
 
-Currently: Senior Engineer at Software Mind (embedded with Branch.io on SDK modernization).
-Available for: Staff / Principal / Forward Deployed roles · Fractional AI Architect engagements ($10-25K/mo).
+Available for: Staff / Principal / Forward Deployed roles · Fractional AI Architect engagements.
 
 ---
 
