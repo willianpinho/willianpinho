@@ -2,7 +2,7 @@
 
 **I help AI-first companies ship agent systems that survive production traffic.**
 
-15 years of engineering. 320+ production AI agents. MCP maintainer (Claude Code, Cursor, Gemini CLI). Payment platforms at 10M+ users, 99.9% uptime.
+15 years of engineering. Open-source MCP tools adopted by Claude Code, Cursor, and Gemini CLI. Payment platforms at 10M+ users, 99.9% uptime.
 
 Available for: Staff / Principal / Forward Deployed roles · Fractional AI Architect engagements.
 
