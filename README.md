@@ -10,6 +10,7 @@ Available for: Staff / Principal / Forward Deployed roles · Fractional AI Archi
 
 ## What I'm building
 
+- 🔍 [`mcp-gateway-scan`](https://github.com/willianpinho/mcp-gateway-scan) — read-only scanner that grades MCP/agent gateways across 7 production-readiness dimensions (RBAC, fail-close, supply chain, observability, spend, secrets, ops) in seconds. `npx mcp-gateway-scan <path>`, or run it as an MCP server.
 - 🔧 [`large-file-mcp`](https://github.com/willianpinho/large-file-mcp) — MCP server adopted by Claude Code, Cursor, Gemini CLI. `npm i @willianpinho/large-file-mcp`. ⭐ 12+
 - 🤖 [`agent-advisor-platform`](https://github.com/willianpinho/agent-advisor-platform) — Multi-agent code review platform (CrewAI + Python).
 - 📄 [`document-management-system`](https://github.com/willianpinho/document-management-system) — Multi-tenant SaaS, NestJS + Next.js 15 + pgvector RAG.
