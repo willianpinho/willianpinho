@@ -2,7 +2,7 @@
 
 **I help AI-first companies ship agent systems that survive production traffic.**
 
-15 years of engineering. Open-source MCP tools adopted by Claude Code, Cursor, and Gemini CLI. Payment platforms at 10M+ users, 99.9% uptime.
+16 years of engineering. Open-source MCP server compatible with Claude Code, Cursor, and Gemini CLI — on npm + Glama registry, listed in community awesome-MCP directories. Payment platforms at 10M+ users, 99.9% uptime.
 
 Available for: Staff / Principal / Forward Deployed roles · Fractional AI Architect engagements.
 
@@ -11,7 +11,7 @@ Available for: Staff / Principal / Forward Deployed roles · Fractional AI Archi
 ## What I'm building
 
 - 🔍 [`mcp-gateway-scan`](https://github.com/willianpinho/mcp-gateway-scan) — read-only scanner that grades MCP/agent gateways across 7 production-readiness dimensions (RBAC, fail-close, supply chain, observability, spend, secrets, ops) in seconds. `npx mcp-gateway-scan <path>`, or run it as an MCP server. Listed on the [Glama MCP directory](https://glama.ai/mcp/servers/willianpinho/mcp-gateway-scan).
-- 🔧 [`large-file-mcp`](https://github.com/willianpinho/large-file-mcp) — MCP server adopted by Claude Code, Cursor, Gemini CLI. `npm i @willianpinho/large-file-mcp`. ⭐ 12+
+- 🔧 [`large-file-mcp`](https://github.com/willianpinho/large-file-mcp) — MCP server compatible with Claude Code, Cursor, Gemini CLI — on npm + listed in community awesome-MCP directories. `npm i @willianpinho/large-file-mcp`. ![GitHub stars](https://img.shields.io/github/stars/willianpinho/large-file-mcp)
 - 🤖 [`agent-advisor-platform`](https://github.com/willianpinho/agent-advisor-platform) — Multi-agent code review platform (CrewAI + Python).
 - 📄 [`document-management-system`](https://github.com/willianpinho/document-management-system) — Multi-tenant SaaS, NestJS + Next.js 15 + pgvector RAG.
 - 🛠 [`smart-summary-app`](https://github.com/willianpinho/smart-summary-app) — Production OpenAI integration with SSE streaming.
