@@ -1,38 +1,38 @@
 # Willian Pinho
 
-**I help AI-first companies ship agent systems that survive production traffic.**
+**I build production LLM and agent systems that survive real traffic. I have been shipping AI/ML since 2014, years before the LLM boom, not after it.**
 
-16 years of engineering. Open-source MCP server compatible with Claude Code, Cursor, and Gemini CLI — on npm + Glama registry, listed in community awesome-MCP directories. Payment platforms at 10M+ users, 99.9% uptime.
+[![Website](https://img.shields.io/badge/willianpinho.com-000?logo=astro&logoColor=white)](https://willianpinho.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/willianpinho)
+[![npm](https://img.shields.io/npm/v/@willianpinho/large-file-mcp?logo=npm&label=large-file-mcp)](https://www.npmjs.com/package/@willianpinho/large-file-mcp)
 
-Available for: Staff / Principal / Forward Deployed roles · Fractional AI Architect engagements.
+16 years in software across fintech, banking, healthcare, legal tech, AR / computer vision, and AI infrastructure. AI/ML since 2014 (on-device computer vision at INDT), with the last 4+ years on production LLM and agentic platforms, not just calling model APIs. I have run security engineering at a bank, taken a co-founded product through acquisition, and today maintain mobile SDKs embedded across hundreds of apps with a combined install base in the billions.
 
----
+Range: hands-on IC (Python, TypeScript, RAG, agent orchestration, MCP) through architecture and leadership (teams of 11 to 20+, PCI DSS / GDPR / LGPD ownership).
 
-## What I'm building
+## What I am building
 
-- 🔍 [`mcp-gateway-scan`](https://github.com/willianpinho/mcp-gateway-scan) — read-only scanner that grades MCP/agent gateways across 7 production-readiness dimensions (RBAC, fail-close, supply chain, observability, spend, secrets, ops) in seconds. `npx mcp-gateway-scan <path>`, or run it as an MCP server. Listed on the [Glama MCP directory](https://glama.ai/mcp/servers/willianpinho/mcp-gateway-scan).
-- 🔧 [`large-file-mcp`](https://github.com/willianpinho/large-file-mcp) — MCP server compatible with Claude Code, Cursor, Gemini CLI — on npm + listed in community awesome-MCP directories. `npm i @willianpinho/large-file-mcp`. ![GitHub stars](https://img.shields.io/github/stars/willianpinho/large-file-mcp)
-- 🤖 [`agent-advisor-platform`](https://github.com/willianpinho/agent-advisor-platform) — Multi-agent code review platform (CrewAI + Python).
-- 📄 [`document-management-system`](https://github.com/willianpinho/document-management-system) — Multi-tenant SaaS, NestJS + Next.js 15 + pgvector RAG.
-- 🛠 [`smart-summary-app`](https://github.com/willianpinho/smart-summary-app) — Production OpenAI integration with SSE streaming.
-- 📚 More: [all repos →](https://github.com/willianpinho?tab=repositories)
+**[ApplyScope](https://getapplyscope.com)** - AI-powered remote job-intelligence platform for tech and tech-adjacent roles. Scrapes 8+ ATS sources and evaluates every posting with an LLM against a structured candidate profile and location fit, behind a full-stack application-tracking dashboard with subscription tiers.
+`Python` `FastAPI` (layered services / repositories, in-process event bus, arq + Redis background queue, multi-provider LLM abstraction) `Next.js` `PostgreSQL` (multi-tenant Row-Level Security) `Prometheus` `OpenTelemetry`. Self-hosted, prod + beta.
 
-## What I write about
+## Open source and selected work
 
-- AI agent architecture in production (not demos)
-- MCP protocol deep dives
-- Payment systems and reliability engineering
-- Why most LATAM engineers underprice themselves (and how I stopped)
+- **[large-file-mcp](https://www.npmjs.com/package/@willianpinho/large-file-mcp)** - MCP server that lets agentic coding assistants (Claude Code, Cursor, Gemini CLI) work with files larger than the LLM context window. On npm + the Glama registry. `TypeScript` `Node 18+` `MCP SDK` `Jest` `Docker`
+- **mcp-gateway-scan** - read-only scanner that grades MCP / agent gateways across production-readiness dimensions. `npx mcp-gateway-scan`, Glama-listed.
+- **document-management-system** - multi-tenant RAG SaaS: Textract OCR to GPT-4 classification to embeddings to pgvector + HNSW retrieval, multi-tenant Row-Level Security. `NestJS 11` `Next.js 15` `PostgreSQL 16` `pgvector` `AWS CDK v2`
+- **ProductFactory** - multi-LLM agent orchestration (OpenAI, Anthropic, Mistral) that turns GitHub issues into reviewed code with cost-aware model-per-role routing. `Python` `Clean Architecture` `pytest`
+- **smart-summary-app** - full-stack AI summarization with SSE streaming.
+- **AI observability lab** - self-hosted Langfuse + Grafana + Prometheus on a personal VPS to validate agent topologies, retrieval strategies, and cost tradeoffs before client work.
 
-→ [willianpinho.com](https://willianpinho.com) · [LinkedIn](https://www.linkedin.com/in/willianpinho/)
+## Track record (real, measured)
 
-## Hire me
+- 48h to under 5 minutes document processing with 70% cost reduction on a regulated fintech KYC pipeline
+- 60% latency reduction and 25% payment-success lift on Fortune 500 banking systems
+- 99.9% uptime payment SDK serving 10M+ users
+- One co-founded platform taken through acquisition
 
-- 📧 **me@willianpinho.com** (best replied within 24h business days)
-- 📅 [Book 15-min call](https://cal.com/willianpinho) (consulting / role discovery)
-- 💼 Full-time roles, Fractional AI/CTO, Architecture reviews, Tech due diligence
-- 🌎 Brazil-based · UTC-3 · Full US East Coast + EU morning overlap
+## Let's talk
 
----
+Open to Staff / Principal / Architect and Applied / Platform AI engineering work (remote, contractor). Also available for fractional AI architecture and technical due diligence via [provenwright.com](https://provenwright.com).
 
-<sub>This profile is a hand-rolled positioning piece, not an autogen template. If you stuck around this far, send me what you're building — I'm curious.</sub>
+[me@willianpinho.com](mailto:me@willianpinho.com) | [linkedin.com/in/willianpinho](https://linkedin.com/in/willianpinho) | [willianpinho.com](https://willianpinho.com)
